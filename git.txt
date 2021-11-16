@@ -1,1 +1,2 @@
-this is a text
+Hi ,Hello....
+        This is my first text file which was being push into my github..
